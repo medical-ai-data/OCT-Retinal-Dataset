@@ -17,6 +17,9 @@ Researchers interested in accessing the dataset for non-commercial scientific pu
 DOI: https://doi.org/10.5281/zenodo.18725274.  
 
 Access requests are evaluated to ensure compliance with ethical and data protection requirements.
+The Data Agreement is available on the project GitHub repository.
+Applicants must download the agreement, sign it, and send it by email.
+After approval, download access will be granted.
 
 ### Intended Use
 
