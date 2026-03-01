@@ -12,9 +12,9 @@ The dataset includes multiple retinal conditions:
 
 Due to patient confidentiality, institutional regulations, and ethical approval constraints, the dataset is distributed under controlled access conditions.
 
-Researchers interested in accessing the dataset for non-commercial scientific purposes may request access via the official Figshare repository:
+Researchers interested in accessing the dataset for non-commercial scientific purposes may request access via the official Zenodo repository:
 
-DOI: https://doi.org/10.6084/m9.figshare.31385596
+DOI: https://doi.org/10.5281/zenodo.18725274.  
 
 Access requests are evaluated to ensure compliance with ethical and data protection requirements.
 
